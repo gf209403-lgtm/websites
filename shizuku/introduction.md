@@ -1,4 +1,5 @@
 # Introduction
+adb install --bypass-low-target-sdk-block nome_do_arquivo.apk
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
